@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 
 /**
- * 这是一个主程序类
+ * 这是一个主程序类   test
  */
 @SpringBootApplication
 public class MainApplication {
